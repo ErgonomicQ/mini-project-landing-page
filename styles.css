@@ -1,0 +1,78 @@
+body
+{
+    background-color: aliceblue;
+}
+/* styling the navbar and its elements */
+nav{
+    border-style: solid;
+    background-color: red;
+    border-radius: 5rem;
+    height: 5rem;
+}
+a
+{
+    text-decoration: none;
+    font-size: 3rem;
+    margin: 2rem;
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.github
+{
+    position: relative;
+    left: 4rem;
+    bottom: 0.5rem;
+   
+}
+.portfolio
+{
+    position: relative;
+    left: 30rem;
+    bottom: 0.5rem;
+}
+.contact
+{
+    position: relative;
+    left: 60rem;
+    bottom:0.5rem;
+}
+
+.text-center
+{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 5rem;
+  color: red;
+
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 10px;
+    border-color: navy;
+    width: 5rem;
+}
+figcaption
+{
+    font-size: 3rem;
+}
+figure
+{
+    text-align: center;
+}
+.text-right
+{
+    margin: 3rem;
+    font-size: 1.5rem;
+}
+input
+{
+    width: 20rem;
+    height: 2rem;
+}
+.send
+{
+    height: 2rem;
+    border-width: 3px;
+    width: 5rem;
+}
